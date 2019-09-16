@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "pro.westweb.mvc"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. Миграционно-визовый центр</name>
+<name>Миграционно-визовый центр</name>
 
 <description>
     Оформление официальных документов для трудоустройства на территории РФ
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#FF0000" />
+<preference name="SplashScreenSpinnerColor" value="#007BFF" />
 
 
 <platform name="android">
